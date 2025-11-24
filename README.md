@@ -4,8 +4,7 @@
 🎉 Graduate of the ALX Backend Development Program  
 💻 Backend Developer | API Builder | Django REST Specialist  
 🌱 Currently expanding into full-stack development  
-📖 Fun fact: I love reading and listening to hymns  
-
+ 
 ---
 
 # 🧠 Skills
