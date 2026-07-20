@@ -92,10 +92,9 @@ https://github.com/meklitm7
 
 # 📊 GitHub Stats
 
-![Meklit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meklitm7&show_icons=true&theme=tokyonight)
+![Meklit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meklitm7&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meklitm7&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meklitm7&layout=compact&hide_border=true)
 
 ---
 
