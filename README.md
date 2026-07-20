@@ -1,80 +1,105 @@
 ## Hi, I'm Meklit Mulugeta 👋
 
-🎓 Software Engineering student at AASTU  
-🎉 Graduate of the ALX Backend Development Program  
-💻 Backend Developer | API Builder | Django REST Specialist  
-🌱 Currently expanding into full-stack development  
- 
+🎓 Software Engineering Student at Addis Ababa Science and Technology University (AASTU)  
+💻 Backend Developer | Django REST Framework Developer | API Builder  
+🔐 Aspiring Secure Backend Engineer with an interest in Cybersecurity  
+🎓 ALX Software Engineering Program Graduate (Backend Development)  
+🌱 Currently improving my backend engineering and cybersecurity skills  
+
 ---
 
 # 🧠 Skills
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 - Python
-- JavaScript (learning)
-- Java (learning)
- 
+- Java 
+  
 
 
-### 🏗️ Backend & Frameworks
-- Django  
-- Django REST Framework  
-- Authentication: Token, Session  
-- REST API Design  
-- CRUD Systems  
+## 🏗️ Backend Development
+- Django
+- Django REST Framework (DRF)
+- REST API Design
+- CRUD Applications
+- Authentication & Authorization
+- JWT Authentication
+- Token & Session Authentication
+- API Testing and Documentation
 
-### 🗄️ Databases
-- SQLite  
-- PostgreSQL (basics)
 
-### 🛠️ Tools & Dev Practices
-- Git & GitHub  
-- Postman / Thunder Client  
-- VS Code  
-- Debugging & Testing APIs  
-- Pagination, Filtering, Search  
+## 🗄️ Databases
+- SQLite
+- MySQL
+- PostgreSQL (Basics)
+
+
+## 🔐 Cybersecurity & Linux
+- Linux 
+- Bash Scripting
+- Networking 
+
+
+## 🛠️ Tools & Development Practices
+- Git & GitHub
+- Postman / Thunder Client
+- VS Code
+- Debugging & Testing APIs
+- Pagination, Filtering & Searching
+- Deployment Basics
+
 
 ---
 
 # 🚀 Projects
 
-## 🌿 Herbal Remedies API (Capstone Project)
-A Django REST API for managing traditional herbal remedies.
+## 🌿 Herbal Remedies API
 
-**🔧 Features:**
-- Full CRUD system  
-- User authentication (Token & Session)  
-- Search & filtering  
-- Pagination  
-- Duplicate-prevention validation  
-- Herbs linked to creator account  
-- Image upload support  
-- Clean error handling  
+A Django REST API for managing traditional herbal remedies with authentication, CRUD operations, search, filtering, and image upload features.
 
-**📌 Tech:** Python, Django, DRF
+**Tech Stack:**  
+Python • Django • Django REST Framework • SQLite
 
-👉 *Repository link:* _( https://github.com/meklitm7/Herbal_Remedies_API.git)_
+🔗 Repository:
+https://github.com/meklitm7/Herbal_Remedies_API
+
+
+---
+
+## 🏨 Hotel Booking API with AI Natural Language Search
+
+A production-ready Hotel Booking REST API built with Django REST Framework, featuring secure authentication, role-based access control, booking management, AI-powered search, testing, and deployment.
+
+**Tech Stack:**  
+Python • Django • Django REST Framework • JWT • PostgreSQL • MySQL
+
+🔗 Repository:
+https://github.com/meklitm7
+
 
 ---
 
 # 🏆 Achievements
 
 ✨ Completed ALX Backend Development Program  
-✨ Built a fully functional, production-style REST API  
-✨ Learned authentication, permissions, and advanced DRF features  
-  
+✨ Completed Cisco Certified Network Associate (CCNA) Training Program through Cisco Networking Academy at Addis Ababa Science and Technology University  
+✨ Completed Backend Web Development Internship at Prodigy InfoTech  
+✨ Built advanced REST APIs using Django REST Framework  
+✨ Implemented authentication, authorization, testing, and deployment practices  
+✨ Continuously improving backend engineering, networking, and cybersecurity skills  
+
 
 ---
 
 # 📊 GitHub Stats
 
 ![Meklit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meklitm7&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meklitm7&layout=compact&theme=radical)
+
 
 ---
 
-# 📫 Connect with Me
+# 📫 Connect With Me
 
-- 🌐 LinkedIn: [Meklit Mulugeta](https://www.linkedin.com/in/meklit-mulugeta-408816324/)  
-- 📧 Email: **meklitmulugeta71@gmail.com**
-
+- 🌐 LinkedIn: [Meklit Mulugeta](https://www.linkedin.com/in/meklit-mulugeta-408816324/)
+- 📧 Email: meklitmulugeta71@gmail.com
