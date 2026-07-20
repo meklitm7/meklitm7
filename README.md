@@ -87,15 +87,6 @@ https://github.com/meklitm7
 ✨ Implemented authentication, authorization, testing, and deployment practices  
 ✨ Continuously improving backend engineering, networking, and cybersecurity skills  
 
-
----
-
-# 📊 GitHub Stats
-
-![Meklit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meklitm7&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meklitm7&layout=compact&hide_border=true)
-
 ---
 
 # 📫 Connect With Me
