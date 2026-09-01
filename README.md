@@ -92,4 +92,4 @@ https://github.com/meklitm7
 # 📫 Connect With Me
 
 - 🌐 LinkedIn: [Meklit Mulugeta](https://www.linkedin.com/in/meklit-mulugeta-408816324/)
-- 📧 Email: meklitmulugeta71@gmail.com
+  
